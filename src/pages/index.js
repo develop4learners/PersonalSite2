@@ -6,6 +6,7 @@ import Title from 'components/title';
 import Gallery from 'components/gallery';
 import IOExample from 'components/io-example';
 import Modal from 'containers/modal';
+import Download from 'components/download'
 import { graphql } from 'gatsby';
 
 const Index = ({ data }) => (
@@ -26,6 +27,7 @@ const Index = ({ data }) => (
     </Box>
     <Gallery items={data.homeJson.gallery} />
     <div style={{ height: '50vh' }} />
+    <Download />
     <IOExample />
   </Layout>
 );

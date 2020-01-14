@@ -1,5 +1,10 @@
 import styled from 'styled-components';
 import MEDIA from 'helpers/mediaTemplates';
+import React from 'react';
+import Image from 'gatsby-image';
+
+//export const Sy
+  //.pictureContainer img:hover
 
 export const Title = styled.span`
   display: block;
