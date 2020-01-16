@@ -7,7 +7,10 @@ class Download extends Component {
 
     return (
       <div className = "App">
-        <a href = {Pdf} target = "_blank" rel="noopener noreferrer"><img src="../../content/images/gallery/intersection-observer.jpg" alt="Download Pdf"/></a>
+        <a href = {Pdf} target = "_blank" rel="noopener noreferrer">
+          <img src={require('../../content/images/Semerjian-Roberto-CSCL-2019.jpg')} alt="Download Pdf"
+          width = "750px"/>
+        </a>
       </div>
     );
   }
