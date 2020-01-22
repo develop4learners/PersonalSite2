@@ -7,9 +7,9 @@ import { Link } from "gatsby"
 //<a href = {Pdf} does actually work but I wish json would instead...
 const Item = ({ title, copy, image, pdf}) => (
   <figure>
-    <Link to={pdf}>
+    <a href = {pdf} target = "_blank" rel="noopener noreferrer">
       <Img fluid={image ? image.childImageSharp.fluid : {}} alt={title} />
-    </Link>
+    </a>
     <figcaption>
       <Title>{title}</Title>
       <Copy>{copy}</Copy>
@@ -21,7 +21,7 @@ Item.propTypes = {
   title: PropTypes.string,
   copy: PropTypes.string,
   image: PropTypes.object.isRequired,
-  pdf: PropTypes.object.isRequired
+  pdf: PropTypes.string.isRequired
 };
 
 export default Item;
