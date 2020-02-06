@@ -9,6 +9,11 @@
   </a>
 </p>
 
+
+## Author of this README:
+
+* Fabian Schultz ([@fschultz_](https://twitter.com/fschultz_)) - [Stink Studios](https://stinkstudios.com)
+
 <p align="center">
   <a href="https://circleci.com/gh/fabe/gatsby-universal">
     <img
@@ -158,7 +163,3 @@ module.exports = {
     ├── lighthouse.test.js # Tests the site specified inside `site-config.js` with Google Lighthouse (WIP)
     └── favicons.js # Generates favicons and manifest using one png only.
 ```
-
-## Author
-
-* Fabian Schultz ([@fschultz_](https://twitter.com/fschultz_)) - [Stink Studios](https://stinkstudios.com)
