@@ -1,7 +1,5 @@
 {
-  "name": "gatsby-universal",
-  "license": "MIT",
-  "author": "Fabian Schultz <desk@fabianschultz.com>",
+  "author": "Collette Roberto, using template by Fabian Schultz <desk@fabianschultz.com>",
   "scripts": {
     "develop": "gatsby develop",
     "serve": "gatsby serve",

@@ -4,19 +4,19 @@
   "gallery": [{
     "title": "React Context",
     "copy": "For global styles.",
-    "image": "../images/Semerjian-Roberto-CSCL-2019.jpg",
-    "pdf" : "../Semerjian-Roberto-CSCL-2019.pdf"
+    "image": "../images/gallery/Roberto-ICLS-2020.jpg",
+    "pdf" : "../pdf/Roberto-ICLS-2020.pdf"
   },
   {
     "title": "Page Transitions",
     "copy": "Component-based for easy usage.",
-    "image": "../images/gallery/page-transitions.jpg",
-    "pdf" : "../Semerjian-Roberto-CSCL-2019.pdf"
+    "image": "../images/gallery/Semerjian-Roberto-CSCL-2019.jpg",
+    "pdf" : "../pdf/Semerjian-Roberto-CSCL-2019.pdf"
   },
   {
     "title": "Intersection Observer",
     "copy": "Including a polyfill for Safari.",
-    "image": "../images/gallery/intersection-observer.jpg",
-    "pdf" : "../Semerjian-Roberto-CSCL-2019.pdf"
+    "image": "../images/gallery/Roberto-Davis-AERA-2020.jpg",
+    "pdf" : "../pdf/Roberto-Davis-AERA-2020.pdf"
   }]
 }
