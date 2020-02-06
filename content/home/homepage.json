@@ -2,20 +2,20 @@
   "title": "Home",
   "content": "intro.md",
   "gallery": [{
-    "title": "React Context",
-    "copy": "For global styles.",
+    "title": "Critical CS Identity in Games",
+    "copy": "ICLS 2020",
     "image": "../images/gallery/Roberto-ICLS-2020.jpg",
     "pdf" : "../pdf/Roberto-ICLS-2020.pdf"
   },
   {
-    "title": "Page Transitions",
-    "copy": "Component-based for easy usage.",
+    "title": "CS Identity in Smart Greenhouse Project",
+    "copy": "CSCL 2019",
     "image": "../images/gallery/Semerjian-Roberto-CSCL-2019.jpg",
     "pdf" : "../pdf/Semerjian-Roberto-CSCL-2019.pdf"
   },
   {
-    "title": "Intersection Observer",
-    "copy": "Including a polyfill for Safari.",
+    "title": "Reimagining Narratives, Rewriting Code",
+    "copy": "AERA 2020 Full Paper",
     "image": "../images/gallery/Roberto-Davis-AERA-2020.jpg",
     "pdf" : "../pdf/Roberto-Davis-AERA-2020.pdf"
   }]
