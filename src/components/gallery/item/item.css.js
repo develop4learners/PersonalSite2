@@ -2,9 +2,19 @@ import styled from 'styled-components';
 import MEDIA from 'helpers/mediaTemplates';
 import React from 'react';
 import Image from 'gatsby-image';
-
 //export const Sy
   //.pictureContainer img:hover
+
+const Paddings = styled.div`
+  color:red;
+  padding:4px 8px;
+`;
+
+export const HoverImg = styled.div`
+  &:hover {
+    opacity: .5;
+  }
+`;
 
 export const Title = styled.span`
   display: block;

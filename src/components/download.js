@@ -105,10 +105,6 @@ class Download extends Component {
         Always, always, always will
         <br />
         </div>
-        <a href = {Pdf} target = "_blank" rel="noopener noreferrer">
-          <img src={require('../../content/images/gallery/Semerjian-Roberto-CSCL-2019.jpg')} alt="Download Pdf"
-          width = "750px"/>
-        </a>
       </div>
     );
   }
